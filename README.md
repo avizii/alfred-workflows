@@ -6,7 +6,7 @@ Searching english word in some websites and open in Safari.
 
 
 alfred typing:
-```json
+```
 en {query}
 ```
 ### 
@@ -15,7 +15,7 @@ Close Shadowsocks immediately.
 ​
 
 alfred typing without any params:
-```json
+```
 ssc
 ```
 
