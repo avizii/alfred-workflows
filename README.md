@@ -2,7 +2,7 @@
 my custom alfred-workflows collection.
 
 ### English Search
-Searching english word in some websites and open in Safari.
+Searching english words in some websites and open in Safari.
 
 
 alfred typing:
