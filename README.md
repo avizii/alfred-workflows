@@ -2,10 +2,10 @@
 my custom alfred-workflows collection.
 
 ### English Search
-Searching english word in some websites and open in Safari.
+Searching english words in some websites and open in Safari.
 
 
-alfred typing:
+Alfred typing:
 ```
 en {query}
 ```
@@ -14,7 +14,7 @@ en {query}
 Close Shadowsocks immediately.
 ​
 
-alfred typing without any params:
+Alfred typing without any params:
 ```
 ssc
 ```
