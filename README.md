@@ -10,6 +10,17 @@ Alfred typing:
 en {query}
 ```
 
+
+### Docs.rs Search
+Searching Rust crates in Docs.rs and open in Safari.
+
+
+Alfred typing:
+```
+rslib {query}
+```
+
+
 ### Shadowsocks Close
 Close Shadowsocks immediately.
 
